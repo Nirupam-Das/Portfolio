@@ -1,0 +1,85 @@
+body{
+    background-color:black ;
+    margin: 0px;
+    padding: 0px;
+    color: white;
+}
+.logo{
+    padding-left: 20px;
+}
+.contain{
+    display: flex;
+    color: white;
+    justify-content: space-between;
+}
+.profile{
+    width: 300px;
+    height: 300px;
+    border: 10px solid gray;
+    border-radius: 50%;
+}
+.intro{
+    width: 600px;
+    padding-left: 20px;
+}
+.intro-profile{
+    padding-right: 60px;
+}
+.nav-item{
+    color: white;
+}
+.contain-text{
+    width: 300px;
+    justify-content: flex-start;
+}
+.btn{
+    margin-left: 40px;
+    margin-bottom: 70px;
+}
+.computer{
+    margin-left: 40px;
+    width: 500px;
+    height: 300px;
+    border-radius: 8px;
+    margin-right: 40px;
+}
+#skill div p{
+    margin-right: 40px;
+}
+#skill .contain{
+    flex-wrap: wrap;
+    margin-right: 40px;
+}
+#third{
+    margin-top: 70px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+#third h2{
+    margin-bottom: 20px;
+}
+.card-img-top{
+    height: 200px;
+}
+.project{
+    margin-top: 30px;
+}
+#carouselExampleInterval{
+    margin: 0px 80px;
+}
+#fourth{
+    margin-top: 60px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+#fourth p{
+    margin-bottom: 20px;
+}
+#fifth{
+    margin-top: 120px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+#fifth footer{
+    text-align: center;
+}
